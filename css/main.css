@@ -73,7 +73,7 @@ body {
 }
 
 .contact-border {
-  width: 150px;
+  width: 120px;
   height: auto;
   border: 2px solid #ffffff;
   background: transparent;
@@ -126,4 +126,21 @@ body {
 
 .footer-main{
   background-color: #000000;
+  padding: 35px;
+}
+
+.footer-text-main{
+  font-size:13px;
+  text-align: center;
+  line-height:13px;
+  letter-spacing:2px;
+  padding-bottom:27px;
+}
+
+.footer-text-sub{
+  font-size:10px;
+  line-height:12px;
+  letter-spacing:1px;
+  padding-right:1px;
+  padding-top:11px;
 }
